@@ -14,11 +14,11 @@ This is a clean and modern landing page for **Zedex**, built using **HTML** and 
 
 ## Live Demo
 
-You can view the live demo of the landing page by clicking the link below:
 
-[Live Demo]([YOUR_DEMO_LINK_HERE](https://zedex-landpage00.netlify.app/))
 
-> Replace `YOUR_DEMO_LINK_HERE` with the actual URL where your project is hosted (e.g., GitHub Pages, Netlify, etc.).
+[Live Demo](https://zedex-landpage00.netlify.app/)
+
+
 
 ## Installation
 
